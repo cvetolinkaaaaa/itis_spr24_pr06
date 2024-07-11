@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 49.1221,
+        "lat": 55.7887
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 295.49,
+        "feels_like": 295.27,
+        "temp_min": 295.49,
+        "temp_max": 295.49,
+        "pressure": 1018,
+        "humidity": 57,
+        "sea_level": 1018,
+        "grnd_level": 1005
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.9,
+        "deg": 355,
+        "gust": 9.91
+    },
+    "clouds": {
+        "all": 97
+    },
+    "dt": 1720644711,
+    "sys": {
+        "type": 1,
+        "id": 9038,
+        "country": "RU",
+        "sunrise": 1720570385,
+        "sunset": 1720632258
+    },
+    "timezone": 10800,
+    "id": 551487,
+    "name": "Kazan’",
+    "cod": 200
+}

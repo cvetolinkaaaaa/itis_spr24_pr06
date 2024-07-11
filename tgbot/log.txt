@@ -1,0 +1,7 @@
+PS C:\Users\HYPERPC\cl-spr>  yc serverless function create --name "telegram-bot-echo"
+id: d4esihjj5r4pka5pccir
+folder_id: b1gus4qkfglqpglj3ila
+created_at: "2024-07-10T20:10:08.443Z"
+name: telegram-bot-echo
+http_invoke_url: https://functions.yandexcloud.net/d4esihjj5r4pka5pccir
+status: ACTIVE
